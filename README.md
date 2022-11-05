@@ -7,7 +7,6 @@
 - ⚡ I am specialized in front-end development & I develop several Angular [web apps][nutrimetrics]
 - 🌱 I love to learn new things
 - 👯 I collaborate with other developers on Open Source projects
-- 📷 I'm also a [photographer][instagram]!
 
 ### Languages and Tools
 
@@ -40,4 +39,4 @@
 [website]: http://estellepicq.com
 [linkedin]: https://linkedin.com/in/estellepicq
 [instagram]: https://instagram.com/epicqpicq
-[nutrimetrics]: http://nutrimetrics.estellepicq.com
+[nutrimetrics]: https://nutrimetrics.estellepicq.com
